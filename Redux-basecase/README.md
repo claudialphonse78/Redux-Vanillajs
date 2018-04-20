@@ -3,6 +3,8 @@
 
   _What we will build:_
     ![](images/01_00.png)
+
+  # [Demo](https://claudz1.github.io/Redux-Vanillajs/Redux-basecase/index.html)
 - Redux is basically a state container for our Js applications.
 - Redux is a tiny library which can be plugged into our Javascript applications ranging from VanillaJs, React.js, Vue.js, Angular.
 - Redux provides an alternative to handling state i.e  data .It contains all the states in a central location.
