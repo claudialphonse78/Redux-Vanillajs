@@ -5,6 +5,7 @@ _What we will build:_
 
   ![](images/01_00.png)
 
+ # [Demo](https://claudz1.github.io/Redux-Vanillajs/Redux-counter/index.html)
 ## Adding support for Redux
 
 - To use Redux in our files we need babel and redux we can use cdn links also

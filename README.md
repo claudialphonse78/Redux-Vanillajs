@@ -1,4 +1,4 @@
-> We have used redux with vanillajs to create basic implemntation
+> We have used redux with vanillajs to create basic implementation
 
 # Projects we will build:
   ![](./Redux-basecase/images/02_00.png)
